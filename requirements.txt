@@ -1,7 +1,2 @@
 requests
 streamlit
-torch 
-torchvision 
-torchaudio
-matplotlib
-Pillow
