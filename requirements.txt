@@ -1,5 +1,5 @@
 requests
-Django
+streamlit
 torch 
 torchvision 
 torchaudio
