@@ -1,3 +1,6 @@
+!pip install requests streamlit torch torchvision torchaudio matplotlib Pillow pycocotools
+
+
 import torch
 import torchvision
 from torch.utils.data import DataLoader
