@@ -1,4 +1,3 @@
-!pip install requests streamlit torch torchvision torchaudio matplotlib Pillow pycocotools
 
 
 import torch
